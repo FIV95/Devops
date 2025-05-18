@@ -72,3 +72,7 @@ This project was completed on macOS and wanted to experiment with docker.
 ## Extracting the config file from the docker container
     * `docker cp tmp_linux:/user/local/bin/server_stats_and_performance.sh ~/Documents/Devops/Server_Performance_Stats`
     ✅ * Concludes this project
+---
+
+This project was completed as part of the roadmap.sh (Devops pathway)
+ `https://roadmap.sh/projects/server-stats`
